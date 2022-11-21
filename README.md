@@ -1,8 +1,8 @@
 # Insect Scanner
 
-Software:
-Disc3D
-Metashape
+Software: <br />
+Disc3D <br />
+Metashape <br />
 
-Hardware:
-Small world vision - Insect scanner DISC3D
+Hardware: <br />
+Small world vision - Insect scanner DISC3D <br />
