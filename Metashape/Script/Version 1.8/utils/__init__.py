@@ -11,4 +11,3 @@ from utils.find_files import *
 from utils.image_folder import *
 from utils.output_folder import *
 from utils.compatibility import *
-from utils.multi_process import *
