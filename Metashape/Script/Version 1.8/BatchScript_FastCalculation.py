@@ -61,7 +61,7 @@ print(str(len(chunk.cameras)) + " images loaded")
 
 #Import Camera Calibration
 
-utils.imp_camcalib(chunk, Metashape, calib, sensor, calibFolder, CamCalibration)
+utils.imp_camcalib(Metashape, chunk, calib, sensor, calibFolder, CamCalibration)
 
 #Define Coordinatesystem
 
