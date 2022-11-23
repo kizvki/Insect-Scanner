@@ -53,6 +53,10 @@ for i in range(len(project_files_list)):
 # --------------------------------------------------------------
 # Script time info
 
-print("Script finished in {:.2f} seconds.".format(time.time() - start_time))
+
+
+print("{} models exported".format(len(project_files_list)))
+
+print("Script finished in {:.2f} seconds".format(time.time() - start_time))
 
 print('Processing finished, results saved to ' + output_folder)
