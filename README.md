@@ -95,7 +95,7 @@ process mutiple insect to 3d models at once
 * **Model_Exporter** <br>
 export multiple insect 3d models to obj at once 
 
-_For more informations, please refer to the [Documentation]([https://example.com](https://apple-puppet-9e4.notion.site/Public-documentation-d2a36e2fab1b421ab56437c818de71e7))_
+_For more informations, please refer to the [Documentation](https://example.com](https://apple-puppet-9e4.notion.site/Public-documentation-d2a36e2fab1b421ab56437c818de71e7)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
