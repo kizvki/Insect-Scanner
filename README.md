@@ -38,8 +38,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+We are in a process of digitalizing our [Entomological Collection](https://usys.ethz.ch/en/research/collections/entomological-collection.html) and to optimize the process we are in the work of doing experiments and writing script to automate most of the process. In this documentation we are sharing our scripts and process optimaziations. It is important to note that the hardware with which the images are made to process the 3d model is from [Small world vision](https://small-world-vision.de/en/).
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
