@@ -129,7 +129,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 Dr. Michael Greeff - michael.greeff@usys.ethz.ch
   
-Ernst Herb - ernsthafter5@gmail.com
+Ernst Herb - ernsthxz@gmail.com
 
 Christian Felsner - christian.felsner@gmail.com
   
