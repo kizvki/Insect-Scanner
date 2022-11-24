@@ -37,7 +37,7 @@
   <p align="center">
     Script and other improvements scanning insects
     <br />
-    <a href="https://github.com/kizvki/Insect-Scanner"><strong>Explore the docs »</strong></a>
+    <a href="[https://github.com/kizvki/Insect-Scanner](https://apple-puppet-9e4.notion.site/Public-documentation-d2a36e2fab1b421ab56437c818de71e7)"><strong>Explore the documentation »</strong></a>
     <br />
     <br />
     <a href="https://github.com/kizvki/Insect-Scanner">View Demo</a>
@@ -64,7 +64,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -119,41 +118,22 @@ Hardware:
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
 There are four different scripts:
-* BatchScript
+* BatchScript <br>
 process one insect to a 3d model.
 
-* BatchScript_FastCalculation
+* BatchScript_FastCalculation <br>
 process one insect to a 3d model with the addition that the calculation will be approx. 3x faster with minmal loss of quality. Can be used for experimenting.
 
-* Multi_BatchScript
+* Multi_BatchScript <br>
 process mutiple insect to 3d models at once
 
-* Model_Exporter
+* Model_Exporter <br>
 export multiple insect 3d models to obj at once 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more informations, please refer to the [Documentation]([https://example.com](https://apple-puppet-9e4.notion.site/Public-documentation-d2a36e2fab1b421ab56437c818de71e7))_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/kizvki/Insect-Scanner/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
