@@ -35,7 +35,7 @@
 <h3 align="center">Insect scanner</h3>
 
   <p align="center">
-    Script and other improvements scanning insects
+    Script and documentation on scanning insects
     <br />
     <a href="https://apple-puppet-9e4.notion.site/Public-documentation-d2a36e2fab1b421ab56437c818de71e7"><strong>Explore the documentation »</strong></a>
     <br />
