@@ -110,7 +110,7 @@ To run the scripts you have to start them inside of Metashape:
 3. Browse for the desired script and open it
 4. Press OK
 
-The script will not go through and ask for the specified folder. 
+The script will now go through and ask for the specified folder. 
   
 <br>
   
