@@ -59,8 +59,7 @@ Hardware:
 
 ### Installation
 
-Download all the files for corresponding Metashape version under 'Insect-Scanner/Metashape/Script/Version X.X/'. Or you can simply download it [here](https://downgit.github.io/#/home?url=https://github.com/kizvki/Insect-Scanner/tree/main/Metashape/Script).<br>
-Save the folder with the same folder strucutre where the .py files are contained.
+Download all the files for corresponding Metashape version under 'Insect-Scanner/Metashape/Script/Version X.X/'. Or you can simply download it [here](https://downgit.github.io/#/home?url=https://github.com/kizvki/Insect-Scanner/tree/main/Metashape/Script). Save the folder with the same folder strucutre where the .py files are contained.
 <br>
 <br>
 For the script to work some adjustments need to be made inside of the python script. To edit the script we recommend [Visual Studio Code](https://code.visualstudio.com/).
