@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/kizvki/Insect-Scanner">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="250" height="250">
   </a>
 
 <h3 align="center">Insect scanner</h3>
