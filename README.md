@@ -162,10 +162,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 Dr. Michael Greeff - michael.greeff@usys.ethz.ch
-  
-Ernst Herb - ernsthxz@gmail.com
 
 Christian Felsner - christian.felsner@usys.ethz.ch
+
+Ernst Herb - ernsthxz@gmail.com
   
 <br />
 <div align="center">
