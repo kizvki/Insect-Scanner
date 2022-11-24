@@ -95,6 +95,8 @@ All settings and calibrations can be done in the setting.py file inside of the v
    ```
 17. Save the script File>Save
 
+<br>
+  
 _For more informations, please refer to the [Documentation](https://apple-puppet-9e4.notion.site/Public-documentation-d2a36e2fab1b421ab56437c818de71e7)_
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,6 +126,8 @@ process mutiple insect to 3d models at once
 
 * **Model_Exporter** <br>
 export multiple insect 3d models to obj at once 
+
+<br>
   
 _For more informations, please refer to the [Documentation](https://apple-puppet-9e4.notion.site/Public-documentation-d2a36e2fab1b421ab56437c818de71e7)_
 
