@@ -83,16 +83,16 @@ Hardware:
 <!-- USAGE EXAMPLES -->
 ## Usage
 There are four different scripts:
-* BatchScript <br>
+* **BatchScript** <br>
 process one insect to a 3d model.
 
-* BatchScript_FastCalculation <br>
+* **BatchScript_FastCalculation** <br>
 process one insect to a 3d model with the addition that the calculation will be approx. 3x faster with minmal loss of quality. Can be used for experimenting.
 
-* Multi_BatchScript <br>
+* **Multi_BatchScript** <br>
 process mutiple insect to 3d models at once
 
-* Model_Exporter <br>
+* **Model_Exporter** <br>
 export multiple insect 3d models to obj at once 
 
 _For more informations, please refer to the [Documentation]([https://example.com](https://apple-puppet-9e4.notion.site/Public-documentation-d2a36e2fab1b421ab56437c818de71e7))_
