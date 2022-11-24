@@ -81,4 +81,4 @@ utils.process(Metashape, doc, chunk, 1) # 0=Better Quality/Longer Times 1=Lower 
 # --------------------------------------------------------------
 # Script time info
 
-print("Script finished in {:.2f} seconds.".format(time.time() - start_time))
+print("Script finished in {:.2f} seconds".format(time.time() - start_time))

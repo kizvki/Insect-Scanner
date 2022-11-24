@@ -4,4 +4,4 @@
 # Code written by Ernst Herb
 #----------------------------------------
 
-from variable.variable import *
+from variable.setting import *

@@ -5,6 +5,7 @@
 #----------------------------------------
 
 import os
+import variable
 
 # Function: Set output folder
 def output_folder(Metashape):
@@ -15,7 +16,7 @@ def output_folder(Metashape):
     
     file_name = os.path.basename(os.path.normpath(output_folder))
 
-    if ('ETHZ-ENT' not in file_name): # Checks if selected output folder contains ETHZ-ENT
-        raise Exception("Unrecognized folder. Please select folder ETHZ-ENT")
+    if (variable.foldersec not in file_name): # Checks if selected output folder contains foldersec
+        raise Exception("Unrecognized folder. Please select folder {}".format(variable.foldersec))
         
     return output_folder

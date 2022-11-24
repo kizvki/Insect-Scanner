@@ -61,8 +61,8 @@ for i in range(process_amount):
 
     file_name[count] = os.path.basename(os.path.normpath(output_folder[count]))
 
-    if ('ETHZ-ENT' not in file_name[count]): # Checks if selected output folder contains ETHZ-ENT
-        raise Exception("Unrecognized folder. Please select folder ETHZ-ENT")
+    if (variable.foldersec not in file_name[count]): # Checks if selected output folder contains foldersec
+        raise Exception("Unrecognized folder. Please select folder {}".format(variable.foldersec))
 
     # Select image folder
 
@@ -118,4 +118,4 @@ for i in range(process_amount):
 # --------------------------------------------------------------
 # Script time info
 
-print("Script finished in {:.2f} seconds.".format(time.time() - start_time))
+print("Script finished in {:.2f} seconds".format(time.time() - start_time))

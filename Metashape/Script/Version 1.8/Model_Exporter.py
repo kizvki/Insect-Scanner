@@ -26,7 +26,7 @@ Metashape.app.messageBox("Select folder with projects:")
     
 output_folder = Metashape.app.getExistingDirectory("Select folder with projects:")
 
-project_files_list = glob.glob(output_folder + "/*/Model/ETHZ-ENT*.psx", recursive = True) #Get project files
+project_files_list = glob.glob(output_folder + "/*/Model/" + variable.foldersec + "*.psx", recursive = True) #Get project files
 
 count = 0
 
