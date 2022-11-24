@@ -79,8 +79,7 @@ All settings and calibrations can be done in the setting.py file inside of the v
 9. Under initial change Type from 'Auto' to 'Precalibrated'
 10. Paste the copied value from step 6 into 'f'
 11. Click the save icon
-12. Save the file to the folder created in step 1 (specific name not needed. We use 'CamCalibration')
-<br>
+12. Save the file to the folder created in step 1 (specific name not needed. We use 'CamCalibration')<br>
 13. Open the file 'setting.py' inside the 'variable' folder
 14. Change value for 'calibFolder' to the path of the folder created in step 1
    ```
