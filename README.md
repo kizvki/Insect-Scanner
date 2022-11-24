@@ -38,13 +38,6 @@
     Script and documentation on scanning insects
     <br />
     <a href="https://apple-puppet-9e4.notion.site/Public-documentation-d2a36e2fab1b421ab56437c818de71e7"><strong>Explore the documentation »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/kizvki/Insect-Scanner">View Demo</a>
-    ·
-    <a href="https://github.com/kizvki/Insect-Scanner/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/kizvki/Insect-Scanner/issues">Request Feature</a>
   </p>
 </div>
 
@@ -172,8 +165,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <br />
 <div align="center">
   <p align="center">
-    <a href="https://github.com/kizvki/Insect-Scanner">View Demo</a>
-    ·
     <a href="https://github.com/kizvki/Insect-Scanner/issues">Report Bug</a>
     ·
     <a href="https://github.com/kizvki/Insect-Scanner/issues">Request Feature</a>
