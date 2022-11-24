@@ -133,8 +133,6 @@ Dr. Michael Greeff - michael.greeff@usys.ethz.ch
 Ernst Herb - ernsthafter5@gmail.com
 
 Christian Felsner - christian.felsner@gmail.com
-
-Project Link: [https://github.com/kizvki/Insect-Scanner](https://github.com/kizvki/Insect-Scanner)
   
 <br />
 <div align="center">
