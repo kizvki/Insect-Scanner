@@ -131,7 +131,7 @@ Dr. Michael Greeff - michael.greeff@usys.ethz.ch
   
 Ernst Herb - ernsthxz@gmail.com
 
-Christian Felsner - christian.felsner@gmail.com
+Christian Felsner - christian.felsner@usys.ethz.ch
   
 <br />
 <div align="center">
