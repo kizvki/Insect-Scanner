@@ -79,7 +79,7 @@ Hardware:
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-To run the script you have to start them inside of Metashape:
+To run the scripts you have to start them inside of Metashape:
 1. Go to Tools>Run Script (Shortcut: Ctrl+R)
 2. Select the folder icon
 3. Browse for the desired script and open it
