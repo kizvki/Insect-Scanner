@@ -123,16 +123,16 @@ Hardware:
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 There are four different scripts:
-BatchScript
+* BatchScript
 process one insect to a 3d model.
 
-BatchScript_FastCalculation
+* BatchScript_FastCalculation
 process one insect to a 3d model with the addition that the calculation will be approx. 3x faster with minmal loss of quality. Can be used for experimenting.
 
-Multi_BatchScript
+* Multi_BatchScript
 process mutiple insect to 3d models at once
 
-Model_Exporter
+* Model_Exporter
 export multiple insect 3d models to obj at once 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
