@@ -65,14 +65,10 @@ Download all the files for corresponding Metashape version under 'Insect-Scanner
 For the script to work some adjustments need to be made inside of the python script. To edit the script we recommend [Visual Studio Code](https://code.visualstudio.com/).
 <br>
 <br>
-Setting: <br>
-All settings and calibrations can be done in the setting.py file inside of the variable folder.
-1. Open the setting.py file inside variable folder
-2. 
-  
-Calibration:
 
-1. Clone the repo
+Calibration: <br>
+All settings and calibrations can be done in the setting.py file inside of the variable folder. 
+1. Open the setting.py file inside the variable folder
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
