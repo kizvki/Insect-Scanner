@@ -97,7 +97,7 @@ To run the script you have to start them inside of Metashape:
 1. Go to Tools>Run Script (Shortcut: Ctrl+R)
 2. Select the folder icon
 3. Browse for the desired script and open it
-4. Press OK <br>
+4. Press OK<br>
 The script will not go through and ask for the specified folder. 
   
 _For more informations, please refer to the [Documentation](https://apple-puppet-9e4.notion.site/Public-documentation-d2a36e2fab1b421ab56437c818de71e7)_
