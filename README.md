@@ -171,8 +171,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
   
 <br />
 <div align="center">
-<h3 align="center">Insect scanner</h3>
-
   <p align="center">
     <a href="https://github.com/kizvki/Insect-Scanner">View Demo</a>
     ·
