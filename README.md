@@ -59,7 +59,7 @@ Hardware:
 
 ### Installation
 
-1. Download all the files for corresponding Metashape version under 'Insect-Scanner/Metashape/Script/Version X.X/'. Or you can simply download it [here](https://downgit.github.io/#/home?url=https://github.com/kizvki/Insect-Scanner/tree/main/Metashape/Script).
+1. Download all the files for corresponding Metashape version under 'Insect-Scanner/Metashape/Script/Version X.X/' with same folder structure. Or you can simply download it [here](https://downgit.github.io/#/home?url=https://github.com/kizvki/Insect-Scanner/tree/main/Metashape/Script).
   
 2. Clone the repo
    ```sh
