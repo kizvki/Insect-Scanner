@@ -46,7 +46,7 @@ We are in a process of digitalizing our [Entomological Collection](https://usys.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these steps below. To edit the scryipt we recommend [Visual Studio Code](https://code.visualstudio.com/).
+To get a local copy up and running follow these steps below.
 
 ### Prerequisites
 
@@ -61,9 +61,13 @@ Hardware:
 
 Download all the files for corresponding Metashape version under 'Insect-Scanner/Metashape/Script/Version X.X/'. Or you can simply download it [here](https://downgit.github.io/#/home?url=https://github.com/kizvki/Insect-Scanner/tree/main/Metashape/Script).<br>
 Save the folder with the same folder strucutre where the .py files are contained.
-
+<br>
+For the script to work some adjustments need to be made inside of the python script. To edit the script we recommend [Visual Studio Code](https://code.visualstudio.com/).
+<br>
 Setting:
-All settings and calibrations adjustment can be don in the setting.py file inside of the variable folder. 
+All settings and calibrations can be done in the setting.py file inside of the variable folder.
+1. Open the setting.py file inside variable folder
+2. 
   
 Calibration:
 
