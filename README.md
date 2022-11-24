@@ -160,7 +160,7 @@ Ernst Herb - ernsthafter5@gmail.com
 
 Christian Felsner - christian.felsner@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/kizvki/Insect-Scanner)
+Project Link: [https://github.com/kizvki/Insect-Scanner](https://github.com/kizvki/Insect-Scanner)
   
 <br />
 <div align="center">
