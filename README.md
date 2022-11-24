@@ -128,7 +128,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
+Dr. Michael Greeff - michael.greeff@usys.ethz.ch
+  
 Ernst Herb - ernsthafter5@gmail.com
 
 Christian Felsner - christian.felsner@gmail.com
