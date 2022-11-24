@@ -88,6 +88,7 @@ To run the script you have to start them inside of Metashape:
 The script will not go through and ask for the specified folder. 
   
 
+  
 There are four different scripts:
 * **BatchScript** <br>
 process one insect to a 3d model.
