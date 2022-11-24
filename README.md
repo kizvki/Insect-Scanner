@@ -59,7 +59,7 @@ Hardware:
 
 ### Installation
 
-Download all the files for corresponding Metashape version under 'Insect-Scanner/Metashape/Script/Version X.X/'. Or you can simply download it [here](https://downgit.github.io/#/home?url=https://github.com/kizvki/Insect-Scanner/tree/main/Metashape/Script). Save the folder with the same folder strucutre where the .py files are contained.
+Download all the files for corresponding Metashape version under ['Insect-Scanner/Metashape/Script/Version X.X/'](https://github.com/kizvki/Insect-Scanner/tree/main/Metashape/Script). Or you can simply download it [here](https://downgit.github.io/#/home?url=https://github.com/kizvki/Insect-Scanner/tree/main/Metashape/Script). Save the folder with the same folder strucutre where the .py files are contained.
 <br>
 <br>
 For the script to work some adjustments need to be made inside of the python script. To edit the script we recommend [Visual Studio Code](https://code.visualstudio.com/).
@@ -72,7 +72,7 @@ All settings and calibrations can be done in the setting.py file inside of the v
 2. Open the folder from the DISC3D process where the desired calibration was used
 3. Copy the file 'CamPos.txt' to the folder created in step 1
 4. Go back to the folder from the DISC3D process
-5. Open ScanInformation.pdf
+5. Open 'ScanInformation.pdf'
 6. Copy the value for '2.4. Camera Constant/f [px]'
 7. Load the images into Metashape (Workflow>Add Folder)
 8. Go to Tool>Camera Calibration
