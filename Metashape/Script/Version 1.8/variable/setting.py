@@ -14,18 +14,9 @@ version = "1.8"
 # --------------------------------------------------------------
 # Folder structure
 
-foldersec = "" #Security that checks if the selected folder contains this name to prevent selecting wrong folder
+foldersec = "" #Security that checks if the selected folder contains this name to prevent selecting wrong folder, else leave it an empty string
 
 imgfolder = "edof" #Select the name of the image folder, which only works if the image folder is placed inside of the selected output folder
-
-# --------------------------------------------------------------
-# Simplifing variables
-
-doc = Metashape.Document()
-chunk = doc.addChunk()
-camera = chunk.cameras  
-sensor = Metashape.Sensor
-calib = Metashape.Calibration()
 
 # --------------------------------------------------------------
 # Import reference

@@ -10,15 +10,7 @@ import utils
 import variable
 
 # Checking Compatibility
-
 utils.check_compatibility(Metashape)
-
-# Simplifing variables
-doc = variable.doc
-chunk = variable.chunk
-camera = variable.camera
-sensor = variable.sensor
-calib = variable.calib
 
 start_time = time.time() #Start Time for script duration calculation
 
@@ -36,6 +28,8 @@ CamCalibration = variable.CamCalibration
 # --------------------------------------------------------------
 # Set Path
 
+doc = Metashape.Document() # Simplifing variables
+
 # Select output folder
 
 output_folder = utils.output_folder(Metashape)
@@ -50,6 +44,12 @@ photos = utils.find_files(image_folder, [".png", ".jpg", ".jpeg", ".tif", ".tiff
 file_name = os.path.basename(os.path.normpath(output_folder))
 
 doc.save(output_folder + '/Model/' + file_name + '.psx')
+
+# Simplifing variables
+chunk = doc.addChunk()
+camera = chunk.cameras  
+sensor = Metashape.Sensor
+calib = Metashape.Calibration()
 
 chunk.addPhotos(photos) # Adds Photos to Chunk
 
