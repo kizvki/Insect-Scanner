@@ -116,16 +116,16 @@ The script will now go through and ask for the specified folder.
   
 There are four different scripts:
 * **BatchScript** <br>
-process one insect to a 3d model.
+process one insect to a 3d model
 
 * **BatchScript_FastCalculation** <br>
-process one insect to a 3d model with the addition that the calculation will be approx. 3x faster with minmal loss of quality. Can be used for experimenting.
+process one insect to a 3d model with the addition that the calculation will be approx. 3x faster with minimal loss of quality. Can be used for experimenting
 
 * **Multi_BatchScript** <br>
 process mutiple insect to 3d models at once
 
 * **Model_Exporter** <br>
-export multiple insect 3d models to obj at once 
+export multiple insect 3d models to obj at once
 
 <br>
   
