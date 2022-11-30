@@ -122,7 +122,10 @@ process one insect to a 3d model
 process one insect to a 3d model with the addition that the calculation will be approx. 3x faster with minimal loss of quality. Can be used for experimenting
 
 * **Multi_BatchScript** <br>
-process multiple insects to 3d models at once
+process multiple insects to 3d models at once (select each folder)
+
+* **Multi_BatchScript_SingleFolder** <br>
+process multiple insects to 3d models at once (select main folder)
 
 * **Model_Exporter** <br>
 export multiple insect 3d models to obj at once
