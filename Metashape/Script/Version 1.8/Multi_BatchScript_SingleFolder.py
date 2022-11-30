@@ -8,6 +8,7 @@
 
 import Metashape
 import os, sys, time
+import glob
 import utils
 import variable
 
@@ -28,42 +29,20 @@ referenceFilename = variable.referenceFilename
 CamCalibration = variable.CamCalibration
 
 # --------------------------------------------------------------
-# Process Input Selection
+# Select Folder that contains all Projects
 
-process_amount = Metashape.app.getInt(label = "Select the amount to process", value = 1)
+Metashape.app.messageBox("Select folder with projects:")
+    
+output_folder = Metashape.app.getExistingDirectory("Select folder with projects:")
+
+project_folder_list = glob.glob(output_folder + "/" + variable.foldersec + "*", recursive = True)
+
+image_folder_list = [x + '/' + variable.imgfolder for x in project_folder_list] #Adds to the project path the image folder to get image folder path
+
+#Process amount gets defined
+process_amount = len(project_folder_list)
 
 print("{} will be processed".format(process_amount))
-
-# --------------------------------------------------------------
-# Set Path Loop
-
-count = 0
-
-output_folder = []
-file_name = [None]*process_amount
-image_folder = []
-
-for i in range(process_amount):
-    
-    # Select output folder
-
-    output_folder_add = utils.output_folder(Metashape)
-
-    output_folder.append(output_folder_add)
-
-    print(output_folder)
-
-    file_name[count] = os.path.basename(os.path.normpath(output_folder[count]))
-
-    # Select image folder
-
-    image_folder_add = utils.image_folder(output_folder[count])
-
-    image_folder.append(image_folder_add)
-
-    print(image_folder)
-    
-    count += 1
 
 # --------------------------------------------------------------
 # Process loop
@@ -71,11 +50,13 @@ for i in range(process_amount):
 count2 = 0
 
 for i in range(process_amount):
-    photos = utils.find_files(image_folder[count2], [".png", ".jpg", ".jpeg", ".tif", ".tiff"])
+    photos = utils.find_files(image_folder_list[count2], [".png", ".jpg", ".jpeg", ".tif", ".tiff"])
+
+    file_name = os.path.basename(os.path.normpath(project_folder_list[count2]))
 
     doc = Metashape.Document() # Simplifing variables
 
-    doc.save(output_folder[count2] + '/Model/' + file_name[count2] + '.psx')
+    doc.save(project_folder_list[count2] + '/Model/' + file_name + '.psx')
 
     # Simplifing variables
     chunk = doc.addChunk()
