@@ -10,7 +10,7 @@
   <p align="center">
     Script and documentation on scanning insects
     <br />
-    <a href="https://apple-puppet-9e4.notion.site/Public-documentation-d2a36e2fab1b421ab56437c818de71e7"><strong>Explore the documentation »</strong></a>
+</a>
   </p>
 </div>
 
@@ -97,7 +97,7 @@ All settings and calibrations can be done in the setting.py file inside the vari
 
 <br>
  
-_For more information, please refer to the [Documentation](https://apple-puppet-9e4.notion.site/Public-documentation-d2a36e2fab1b421ab56437c818de71e7)_
+_For more information, you are welcome to contact us._
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -132,7 +132,7 @@ export multiple insect 3d models to obj at once
 
 <br>
  
-_For more information, please refer to the [Documentation](https://apple-puppet-9e4.notion.site/Public-documentation-d2a36e2fab1b421ab56437c818de71e7)_
+_For more information, you are welcome to contact us._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
